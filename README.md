@@ -1,4 +1,5 @@
 # MP-PCA-Denoising
+(Minor improvements added Dec 15 2020)
 
 Matlab implementation of Marchenko Pastur denoising (Veraart et al, NeuroImage 142 (2016) 394–406)
 
