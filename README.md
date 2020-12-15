@@ -12,7 +12,4 @@ Modified to remove mean across voxels (compute principal components of
 the covariance not correlation matrix).
 
 Free to use, but please cite Veraart et al., NeuroImage (2016) 142, p
-394-406 (https://doi.org/10.1016/j.neuroimage.2016.08.016) and Does et al.,
-Magn. Reson. Med. (2018) ("Evaluation of Principal Component Analysis Image Denoising on
-Multi-Exponential MRI Relaxometry"), reference will be finalized when
-available. 
+394-406 (https://doi.org/10.1016/j.neuroimage.2016.08.016) and  Does, MD al. Evaluation of principal component analysis image denoising on multi‐exponential MRI relaxometry. Magn Reson Med. 2019; 81: 3503– 3514. https://doi.org/10.1002/mrm.27658 
