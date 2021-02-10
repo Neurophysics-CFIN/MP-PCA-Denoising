@@ -67,7 +67,7 @@ for index = 0:M*N*O-1
 end
 skipped = count==0 | ~mask;
 denoised = denoised + image.*skipped; % Assign original data to denoisedImage outside of mask and at skipped voxels
-count(count==0) = 1;
+count(skipped) = 1;
 denoised = denoised./count;
 P = P./count;
 S2 = S2./count;
