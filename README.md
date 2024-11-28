@@ -14,3 +14,5 @@ the covariance not correlation matrix).
 
 Free to use, but please cite Veraart et al., NeuroImage (2016) 142, p
 394-406 (https://doi.org/10.1016/j.neuroimage.2016.08.016) and  Does, MD al. Evaluation of principal component analysis image denoising on multi‐exponential MRI relaxometry. Magn Reson Med. 2019; 81: 3503– 3514. https://doi.org/10.1002/mrm.27658 
+
+Check out our other repository, https://github.com/Neurophysics-CFIN/Tensor-MP-PCA for tensor generalization to multidimensional data!
